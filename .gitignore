@@ -1,0 +1,8 @@
+logseq/bak/
+logseq/version-files/
+.lsp
+.clj-kondo/.cache
+pages-metadata.edn
+**/.recycle/
+**/.DS_store
+graphs-txid.edn
